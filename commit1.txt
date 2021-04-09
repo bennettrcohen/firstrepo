@@ -1,1 +1,3 @@
 This is a new document called "commit1.txt". I will add it to my git repository locally and commit it to GitHub as my first commit for Task 1 on Homework 1.
+
+A fun fact about myself is that I was born during halftime of the Super Bowl in 2001. The Baltimore Ravens defeated the New York Giants that day.
